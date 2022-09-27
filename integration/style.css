@@ -1,0 +1,9 @@
+img.hover-effect:hover {
+    opacity: 0.5;
+}
+img {
+    border-radius: 3px;
+}
+.cat img:last-child{
+ 	filter: grayscale(10)
+ }
